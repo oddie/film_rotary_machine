@@ -1,0 +1,13 @@
+#ifndef CustomChars_h
+#define CustomChars_h
+
+#define CC_ARROW_RIGHT_INDEX 0
+#define CC_ARROW_UP_INDEX 1
+#define CC_ARROW_DOWN_INDEX 2
+#define CC_ARROW_UPDOWN_INDEX 3
+#define CC_SPINNER_SPRITE_1_INDEX 4
+#define CC_SPINNER_SPRITE_2_INDEX 5
+#define CC_SPINNER_SPRITE_3_INDEX 6
+#define CC_SPINNER_SPRITE_4_INDEX 7
+
+#endif
